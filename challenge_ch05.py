@@ -7,9 +7,9 @@
 #my_uk_residences=("121 McLeod Rd 51.2916,0.06496","326 Spinner House 53.47113,2.28058")
 #print(my_uk_residences)
 #xxx McLeod Rd
-#51.2916,0.06496
+#xx.2916,0.06496
 #xxx Spinner House
-#53.47113,2.28058
+#xx.47113,2.28058
 
 #3
 #my_attributes=dict()
